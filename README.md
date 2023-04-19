@@ -1,5 +1,5 @@
 # Scheduler-to-read-mails
-An Email Schduler to real/download attachents from mails
+An Email Schduler to read/download attachments from mails
   
 Note:the program is made using mysql database,quartz scheduler,java mail Api'
 1.Add your mysql schema  url in the application,properties file.
